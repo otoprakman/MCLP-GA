@@ -1,0 +1,23 @@
+Parameters: Maximum Improving-1-Point Crossover-402-50-30-0.3-0.3-20-0.5
+Time: 63565
+Result: 15977
+Time: 42787
+Result: 15893
+Time: 47866
+Result: 15954
+Time: 41165
+Result: 15934
+Time: 50737
+Result: 15932
+Time: 49235
+Result: 15710
+Time: 42148
+Result: 15866
+Time: 48903
+Result: 15929
+Time: 54646
+Result: 15948
+Time: 49126
+Result: 15945
+Average Time: 49017
+Average Result: 15908

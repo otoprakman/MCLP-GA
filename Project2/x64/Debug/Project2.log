@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\rai\source\repos\project2\project2\source.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rai\source\repos\project2\project2\source.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rai\source\repos\project2\project2\source.cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(173): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(801): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(465): warning C4101: 'bekle': unreferenced local variable
+  Project2.vcxproj -> C:\Users\Rai\source\repos\Project2\x64\Debug\Project2.exe

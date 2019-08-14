@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\rai\source\repos\project2\project2\source.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(123): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(134): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\rai\source\repos\project2\project2\source.cpp(110): warning C4715: 'satisfied_vec_func': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Rai\source\repos\Project2\Debug\Project2.exe
