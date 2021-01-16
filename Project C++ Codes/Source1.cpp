@@ -8,10 +8,7 @@
 #include <fstream>
 #include <ctime>
 #include <string>
-/*
-SORUNLAR
-1)
-*/
+
 
 using namespace std;
 
